@@ -1,1 +1,1 @@
-# won
+WON is Wheel of Names, for prize draws that can produce more than one winner in one spin, according to the number entered to the desired number of winners. There is a spinner and animation of the name rotation when it is spun and there is also a sound or voice when it is spun and when it displays the winner.# won
